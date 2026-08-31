@@ -169,3 +169,30 @@ wish had happened instead of what the system actually did. The honest
 result — 94.3% match rate, with the system catching its own one overconfident
 guess — is the real, measured outcome, and arguably a stronger demonstration
 of rigor than a suspiciously perfect score would have been.
+
+---
+
+## Run-to-run instability, traced to temperature -- and a real trade-off, not a bug fix
+
+**What broke:** running the exact same code against the exact same data
+produced different results on different runs -- `needs_human` varied
+between 1, 2, and 3 across identical code, with the match rate shifting
+between 94.3% and 95.1% as a direct consequence.
+**Why:** `temperature=0.2` in both LLM call sites. Temperature controls how
+much the model samples a slightly-less-likely answer instead of its top
+choice -- for most records this made no difference, but for the 2-3
+genuinely ambiguous cases (by design, close to a coin-flip), small
+randomness was enough to flip the final answer between runs.
+**Fix:** set `temperature=0` in both `_ask_llm` and `_ask_llm_batch`.
+Verified with two consecutive full runs producing byte-for-byte identical
+results: same counts, same two settlements flagged `OVERCONFIDENT`, same
+order refs. Confirmed reproducible, not just re-tested.
+**The trade-off worth stating honestly:** determinism is not the same as
+correctness. At temperature=0, this model consistently abstains correctly
+on 1 of 3 ambiguous cases and consistently guesses (happening to be right)
+on the other 2 -- a stable 95.1% match rate with 2 known `OVERCONFIDENT`
+flags. An earlier run under randomness happened to land on `needs_human: 2`
+(94.3%) by chance. Both are legitimate, validated results; determinism was
+chosen deliberately for reproducibility, not because it produced a "nicer"
+number -- the number it happened to produce was actually higher, which is
+itself worth being transparent about rather than quietly preferring.
