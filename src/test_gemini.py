@@ -52,21 +52,6 @@ candidates because of a possible duplicate entry, use the amount, date, and any 
 field to judge which one (if any) is the real match -- a note mentioning a duplicate
 or double-click is a strong signal about which entry is NOT the real one.
 
-If multiple candidates are EQUALLY plausible and nothing in the amount, date, or
-notes fields distinguishes them -- no tiebreaker exists at all -- respond
-"needs_human" rather than guessing. Picking one candidate when there is genuinely
-no basis to prefer it over the other is worse than admitting uncertainty.
-
-Each candidate's gateway_payment_ref is its own copy of the settlement's
-payment_id, if the merchant's system captured it -- compare it against this
-settlement's payment_id above. An EXACT match would already have been caught
-before reaching you, so you will only ever see "none" or a value that does
-NOT exactly match. However, a PARTIAL resemblance (e.g. a truncated or
-near-identical fragment of the settlement's payment_id) on one candidate but
-not the other is a real tiebreaker in its favor -- use it if present. A
-gateway_payment_ref that looks completely unrelated on both candidates
-carries no signal either way.
-
 Do NOT show arithmetic, comparisons, or your reasoning process in the explanation --
 give only the final one-sentence justification, no scratchpad, no "let me check".
 Respond with ONLY the JSON object below -- no text before or after it.
@@ -121,11 +106,7 @@ def _format_candidates(candidates: pd.DataFrame) -> str:
     lines = []
     for c in candidates.itertuples():
         note = c.notes if isinstance(c.notes, str) and c.notes else "none"
-        ref = c.gateway_payment_ref if isinstance(c.gateway_payment_ref, str) and c.gateway_payment_ref else "none"
-        lines.append(
-            f"  - order_ref: {c.order_ref}, order_amount: {c.order_amount}, order_date: {c.order_date.date()}, "
-            f"gateway_payment_ref: {ref}, notes: {note}"
-        )
+        lines.append(f"  - order_ref: {c.order_ref}, order_amount: {c.order_amount}, order_date: {c.order_date.date()}, notes: {note}")
     return "\n".join(lines)
 
 
@@ -172,10 +153,7 @@ def _ask_llm(settlement_row, candidates: pd.DataFrame) -> dict:
         contents=prompt,
         config=types.GenerateContentConfig(
             response_mime_type="application/json",   # asks Gemini to guarantee valid JSON
-            temperature=0,                              # deterministic -- was 0.2, but that caused
-                # real run-to-run flips on the 2-3 genuinely ambiguous cases (needs_human count
-                # varied 1-3 across identical code). temperature=0 makes the model always pick
-                # its single most-likely answer instead of occasionally sampling a different one.
+            temperature=0.2,                            # more reliable than prompt instructions alone
             max_output_tokens=200,                       # hard cap -- backstop against rambling
             # NOTE: thinking_config was removed -- it caused a 400 INVALID_ARGUMENT
             # on gemini-3.5-flash-lite in real testing. The explicit "don't show your
@@ -201,7 +179,7 @@ def _ask_llm_batch(settlement_row, candidates: pd.DataFrame) -> dict:
     response = client.models.generate_content(
         model=MODEL, contents=prompt,
         config=types.GenerateContentConfig(
-            response_mime_type="application/json", temperature=0,
+            response_mime_type="application/json", temperature=0.2,
             max_output_tokens=200,
         ),
     )

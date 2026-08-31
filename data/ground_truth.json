@@ -1,0 +1,800 @@
+[
+  {
+    "settlement_id_or_payment_id": "pay_aSQHqNgAC72qFl",
+    "order_ref": "ORD-2026-00001",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_HTmt9OBGhnuKon",
+    "order_ref": "ORD-2026-00002",
+    "should_match": true,
+    "category": "truncated_ref"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_ilC2eY1gOHafUo",
+    "order_ref": "ORD-2026-00003",
+    "should_match": true,
+    "category": "fee_confusion"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_KPoh3pKMzKG5mS",
+    "order_ref": "ORD-2026-00004",
+    "should_match": true,
+    "category": "fee_confusion"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_hgIqLSmNqE40fA",
+    "order_ref": "ORD-2026-00005",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_5okXkzl5WzPTpj",
+    "order_ref": "ORD-2026-00006",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_B9h3lcBGYQ6TmA",
+    "order_ref": "ORD-2026-00007",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_kfFNuYUPnmbpD0",
+    "order_ref": "ORD-2026-00008",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_3UDqpNVGMrerqt",
+    "order_ref": "ORD-2026-00009",
+    "should_match": true,
+    "category": "timing_shift"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_zkChMbyIbNiCdx",
+    "order_ref": "ORD-2026-00010",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_WktJ5J4x6mKZpR",
+    "order_ref": "ORD-2026-00011",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_Zf2pCLxb0lnXv2",
+    "order_ref": "ORD-2026-00012",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_VlnES8GrgmolaH",
+    "order_ref": "ORD-2026-00013",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_Wx4sKAJd7gVMqf",
+    "order_ref": "ORD-2026-00014",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_6FEecAtpf7ZJ69",
+    "order_ref": "ORD-2026-00015",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_OHzlwUMVmI5BRh",
+    "order_ref": "ORD-2026-00016",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_YrsK9EjHvIHCtl",
+    "order_ref": "ORD-2026-00017",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_H7M3EHMoQrof8V",
+    "order_ref": "ORD-2026-00018",
+    "should_match": true,
+    "category": "many_to_one"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_H7M3EHMoQrof8V",
+    "order_ref": "ORD-2026-00019",
+    "should_match": true,
+    "category": "many_to_one"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_KNAp0mxDoJJ9s8",
+    "order_ref": "ORD-2026-00020",
+    "should_match": true,
+    "category": "truncated_ref"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_H8G4ZpZDYUvh7i",
+    "order_ref": "ORD-2026-00021",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_sEg3iCPU6zUjzg",
+    "order_ref": "ORD-2026-00022",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_YoWWKr99HXg1iw",
+    "order_ref": "ORD-2026-00023",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_SxLsFAXhO2I1A3",
+    "order_ref": "ORD-2026-00024",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_JnOng0wVJY08YM",
+    "order_ref": "ORD-2026-00025",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_BALznFvgQKGtn9",
+    "order_ref": "ORD-2026-00026",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_CQwBgBye1UnWeN",
+    "order_ref": "ORD-2026-00027",
+    "should_match": true,
+    "category": "fee_confusion"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_veCcwrN8fKxJ7T",
+    "order_ref": "ORD-2026-00028",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_07LjfP4tOPhRfI",
+    "order_ref": "ORD-2026-00029",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_ZVYkBzPoBrUBHt",
+    "order_ref": "ORD-2026-00030",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_BvbdFo9xb50OXi",
+    "order_ref": "ORD-2026-00031",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_vJlPGw7HWFb2cx",
+    "order_ref": "ORD-2026-00032",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_pUlwW1uhw3U3x8",
+    "order_ref": "ORD-2026-00033",
+    "should_match": true,
+    "category": "missing_ref"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_jb0QBhoOw6cjBw",
+    "order_ref": "ORD-2026-00034",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_ssjRRkwn9XoEwJ",
+    "order_ref": "ORD-2026-00035",
+    "should_match": true,
+    "category": "timing_shift"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_rem7rMMfNKKkM3",
+    "order_ref": "ORD-2026-00036",
+    "should_match": true,
+    "category": "missing_ref"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_iwItCqpgrxMp1j",
+    "order_ref": "",
+    "should_match": false,
+    "category": "missing_from_ledger"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_xBIZMLhfx9IwiL",
+    "order_ref": "ORD-2026-00037",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_7WWJSKkMM0jQb6",
+    "order_ref": "ORD-2026-00038",
+    "should_match": true,
+    "category": "fee_confusion"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_68VRQEDI5SrJH3",
+    "order_ref": "ORD-2026-00039",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_z52Dm7tO4fJHS6",
+    "order_ref": "ORD-2026-00040",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_ausPlLNzAuyf8D",
+    "order_ref": "ORD-2026-00041",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_VQKWGGw4gZ3mHk",
+    "order_ref": "ORD-2026-00042",
+    "should_match": true,
+    "category": "partial_refund_lag"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_8OA9x14xQPHOvl",
+    "order_ref": "ORD-2026-00043",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_HUWi9o4JJVYo29",
+    "order_ref": "ORD-2026-00044",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_pueBxHZdxLceXK",
+    "order_ref": "ORD-2026-00045",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_wzInjq5JzjuxZE",
+    "order_ref": "ORD-2026-00046",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_MDEaIaGr8bYPX4",
+    "order_ref": "ORD-2026-00047",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_Gcn13Dce53Ic5t",
+    "order_ref": "ORD-2026-00048",
+    "should_match": true,
+    "category": "ambiguous_no_signal"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_Gcn13Dce53Ic5t",
+    "order_ref": "ORD-2026-00049",
+    "should_match": false,
+    "category": "ambiguous_no_signal"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_IxlKxVspeqxWjy",
+    "order_ref": "ORD-2026-00050",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_krsWw6SEMCiay0",
+    "order_ref": "ORD-2026-00051",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_mXZe0XPispjAxB",
+    "order_ref": "ORD-2026-00052",
+    "should_match": true,
+    "category": "truncated_ref"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_nxCQQj9Ds5fZTv",
+    "order_ref": "ORD-2026-00053",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_anrRXJXHwmhPE7",
+    "order_ref": "ORD-2026-00054",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_tBdwaiY7FEQz0E",
+    "order_ref": "ORD-2026-00055",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "",
+    "order_ref": "ORD-2026-00056",
+    "should_match": false,
+    "category": "missing_from_settlement"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_HuRrq19Qf7W491",
+    "order_ref": "ORD-2026-00057",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_Xy8ZEurHi0W3Vc",
+    "order_ref": "ORD-2026-00058",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_oQaRY9AiexTgt2",
+    "order_ref": "ORD-2026-00059",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_6b02mLlyOWXoxo",
+    "order_ref": "ORD-2026-00060",
+    "should_match": true,
+    "category": "ambiguous_no_signal"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_6b02mLlyOWXoxo",
+    "order_ref": "ORD-2026-00061",
+    "should_match": false,
+    "category": "ambiguous_no_signal"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_e58juKVONtB7op",
+    "order_ref": "ORD-2026-00062",
+    "should_match": true,
+    "category": "missing_ref"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_1kjV3PhTa1acw5",
+    "order_ref": "ORD-2026-00063",
+    "should_match": true,
+    "category": "timing_shift"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_KEVm3Vpazov026",
+    "order_ref": "ORD-2026-00064",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_XRTtqemWKjkCzH",
+    "order_ref": "ORD-2026-00065",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_8iZxNNKqYbd3Bh",
+    "order_ref": "ORD-2026-00066",
+    "should_match": true,
+    "category": "timing_shift"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_bxSDWvJtqbLbYr",
+    "order_ref": "ORD-2026-00067",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_2EtEfonGa4miS4",
+    "order_ref": "ORD-2026-00068",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_QhT66y97cL57nJ",
+    "order_ref": "ORD-2026-00069",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_VnBXcbqgv3je68",
+    "order_ref": "ORD-2026-00070",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_N8DhWD3qNyxxlc",
+    "order_ref": "ORD-2026-00071",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_B6knlceQmYjKtT",
+    "order_ref": "ORD-2026-00072",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_yy2QdDqxuXt01Q",
+    "order_ref": "ORD-2026-00073",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_wmwCy5QpEB7DIv",
+    "order_ref": "ORD-2026-00074",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_PZygFP0xOLsgd9",
+    "order_ref": "ORD-2026-00075",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_wskOIsDTSI463O",
+    "order_ref": "ORD-2026-00076",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_fu9tdCmVJjWWiA",
+    "order_ref": "ORD-2026-00077",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_EUk4Ybn9nbFhSX",
+    "order_ref": "ORD-2026-00078",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_mmqGmRscEm5uaP",
+    "order_ref": "ORD-2026-00079",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_qTxvhyCZQDA2ki",
+    "order_ref": "ORD-2026-00080",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_GQMATDPNjZ3Ma5",
+    "order_ref": "ORD-2026-00081",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_IOCvZY0uVLSwCg",
+    "order_ref": "ORD-2026-00082",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_F7aTIAK5W4QkYg",
+    "order_ref": "ORD-2026-00083",
+    "should_match": true,
+    "category": "partial_refund_lag"
+  },
+  {
+    "settlement_id_or_payment_id": "",
+    "order_ref": "ORD-2026-00084",
+    "should_match": false,
+    "category": "missing_from_settlement"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_dqW8QjdWmHwCMP",
+    "order_ref": "",
+    "should_match": false,
+    "category": "missing_from_ledger"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_slQlkFxAIiKpuS",
+    "order_ref": "ORD-2026-00085",
+    "should_match": true,
+    "category": "partial_refund_lag"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_PB4MM7Qt46xHr4",
+    "order_ref": "ORD-2026-00086",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_lpeY4zBztyhaSd",
+    "order_ref": "ORD-2026-00087",
+    "should_match": true,
+    "category": "missing_ref"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_KH6sU4vzOFjnZm",
+    "order_ref": "ORD-2026-00088",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_tWSNrwQuDBWEgO",
+    "order_ref": "ORD-2026-00089",
+    "should_match": true,
+    "category": "duplicate_entry"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_tWSNrwQuDBWEgO",
+    "order_ref": "ORD-2026-00090",
+    "should_match": false,
+    "category": "duplicate_entry"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_FP0YMkFBl6O7TD",
+    "order_ref": "ORD-2026-00091",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_3a2BoFrjjLYOzu",
+    "order_ref": "ORD-2026-00092",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_kQ5KexibG4QZLl",
+    "order_ref": "ORD-2026-00093",
+    "should_match": false,
+    "category": "decoy_near_miss"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_fLHpaUaGGxmXzg",
+    "order_ref": "ORD-2026-00094",
+    "should_match": true,
+    "category": "duplicate_entry"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_fLHpaUaGGxmXzg",
+    "order_ref": "ORD-2026-00095",
+    "should_match": false,
+    "category": "duplicate_entry"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_Rj7afj5Adnecx9",
+    "order_ref": "ORD-2026-00096",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_IKvYo7CzakFIFv",
+    "order_ref": "ORD-2026-00097",
+    "should_match": true,
+    "category": "many_to_one"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_IKvYo7CzakFIFv",
+    "order_ref": "ORD-2026-00098",
+    "should_match": true,
+    "category": "many_to_one"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_UvIltnJlU5lTop",
+    "order_ref": "ORD-2026-00099",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_Qk8RCQanKuLqIo",
+    "order_ref": "",
+    "should_match": false,
+    "category": "missing_from_ledger"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_Ep1cgknp0fUqwI",
+    "order_ref": "ORD-2026-00100",
+    "should_match": true,
+    "category": "missing_ref"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_OSLy3W6UGBk0ho",
+    "order_ref": "ORD-2026-00101",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_5Ii6HKCU2ANH4D",
+    "order_ref": "ORD-2026-00102",
+    "should_match": true,
+    "category": "missing_ref"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_MGXMRqOGqleigC",
+    "order_ref": "ORD-2026-00103",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_YZhVpVBTcCVG8D",
+    "order_ref": "ORD-2026-00104",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_u8VdwjHgEtINv3",
+    "order_ref": "ORD-2026-00105",
+    "should_match": true,
+    "category": "partial_refund_lag"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_YlQVjrztfOc6lb",
+    "order_ref": "ORD-2026-00106",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_GgoxlOJ6IIUVJP",
+    "order_ref": "ORD-2026-00107",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_G9ssn1bYQrII5j",
+    "order_ref": "ORD-2026-00108",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_LaWxscHjFndTyB",
+    "order_ref": "ORD-2026-00109",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_wlvOVkvYXMB5oQ",
+    "order_ref": "ORD-2026-00110",
+    "should_match": true,
+    "category": "duplicate_entry"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_wlvOVkvYXMB5oQ",
+    "order_ref": "ORD-2026-00111",
+    "should_match": false,
+    "category": "duplicate_entry"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_qC6eOP4wgs2x8F",
+    "order_ref": "ORD-2026-00112",
+    "should_match": true,
+    "category": "ambiguous_no_signal"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_qC6eOP4wgs2x8F",
+    "order_ref": "ORD-2026-00113",
+    "should_match": false,
+    "category": "ambiguous_no_signal"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_j3Ofx7LMooj84u",
+    "order_ref": "ORD-2026-00114",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_jlib9MLLKobeWi",
+    "order_ref": "ORD-2026-00115",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_LUKG2WGBZc9GyT",
+    "order_ref": "ORD-2026-00116",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_uOSkTfRNfRT8Lj",
+    "order_ref": "ORD-2026-00117",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_La2rMYmldvjcJL",
+    "order_ref": "ORD-2026-00118",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "",
+    "order_ref": "ORD-2026-00119",
+    "should_match": false,
+    "category": "missing_from_settlement"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_TEY2osmhCXTmMz",
+    "order_ref": "ORD-2026-00120",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_5dGJQIbJu4Xej0",
+    "order_ref": "ORD-2026-00121",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_Wi2Y6PiSCSGa5Q",
+    "order_ref": "ORD-2026-00122",
+    "should_match": false,
+    "category": "decoy_near_miss"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_t3Hdb4dxfyR3NQ",
+    "order_ref": "ORD-2026-00123",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_egD0rvJFzSgIes",
+    "order_ref": "ORD-2026-00124",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_NdniKUYUOCsMBm",
+    "order_ref": "ORD-2026-00125",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_nkiI0wzr2haOi2",
+    "order_ref": "ORD-2026-00126",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_QiT88WCe3fDT7e",
+    "order_ref": "ORD-2026-00127",
+    "should_match": true,
+    "category": "truncated_ref"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_0rir1agkKjBYqR",
+    "order_ref": "ORD-2026-00128",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_qGArXxtG7gGv0L",
+    "order_ref": "ORD-2026-00129",
+    "should_match": true,
+    "category": "clean"
+  },
+  {
+    "settlement_id_or_payment_id": "pay_Z6NRh1iO3J73Rp",
+    "order_ref": "ORD-2026-00130",
+    "should_match": true,
+    "category": "clean"
+  }
+]

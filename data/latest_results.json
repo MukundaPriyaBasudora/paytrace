@@ -1,0 +1,1009 @@
+{
+  "classified": [
+    {
+      "settlement_payment_id": "pay_aSQHqNgAC72qFl",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00001",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_aSQHqNgAC72qFl"
+    },
+    {
+      "settlement_payment_id": "pay_hgIqLSmNqE40fA",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00005",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_hgIqLSmNqE40fA"
+    },
+    {
+      "settlement_payment_id": "pay_5okXkzl5WzPTpj",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00006",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_5okXkzl5WzPTpj"
+    },
+    {
+      "settlement_payment_id": "pay_B9h3lcBGYQ6TmA",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00007",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_B9h3lcBGYQ6TmA"
+    },
+    {
+      "settlement_payment_id": "pay_kfFNuYUPnmbpD0",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00008",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_kfFNuYUPnmbpD0"
+    },
+    {
+      "settlement_payment_id": "pay_3UDqpNVGMrerqt",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00009",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_3UDqpNVGMrerqt"
+    },
+    {
+      "settlement_payment_id": "pay_zkChMbyIbNiCdx",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00010",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_zkChMbyIbNiCdx"
+    },
+    {
+      "settlement_payment_id": "pay_WktJ5J4x6mKZpR",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00011",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_WktJ5J4x6mKZpR"
+    },
+    {
+      "settlement_payment_id": "pay_Zf2pCLxb0lnXv2",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00012",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_Zf2pCLxb0lnXv2"
+    },
+    {
+      "settlement_payment_id": "pay_VlnES8GrgmolaH",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00013",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_VlnES8GrgmolaH"
+    },
+    {
+      "settlement_payment_id": "pay_Wx4sKAJd7gVMqf",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00014",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_Wx4sKAJd7gVMqf"
+    },
+    {
+      "settlement_payment_id": "pay_6FEecAtpf7ZJ69",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00015",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_6FEecAtpf7ZJ69"
+    },
+    {
+      "settlement_payment_id": "pay_OHzlwUMVmI5BRh",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00016",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_OHzlwUMVmI5BRh"
+    },
+    {
+      "settlement_payment_id": "pay_YrsK9EjHvIHCtl",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00017",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_YrsK9EjHvIHCtl"
+    },
+    {
+      "settlement_payment_id": "pay_H8G4ZpZDYUvh7i",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00021",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_H8G4ZpZDYUvh7i"
+    },
+    {
+      "settlement_payment_id": "pay_sEg3iCPU6zUjzg",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00022",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_sEg3iCPU6zUjzg"
+    },
+    {
+      "settlement_payment_id": "pay_YoWWKr99HXg1iw",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00023",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_YoWWKr99HXg1iw"
+    },
+    {
+      "settlement_payment_id": "pay_SxLsFAXhO2I1A3",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00024",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_SxLsFAXhO2I1A3"
+    },
+    {
+      "settlement_payment_id": "pay_JnOng0wVJY08YM",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00025",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_JnOng0wVJY08YM"
+    },
+    {
+      "settlement_payment_id": "pay_BALznFvgQKGtn9",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00026",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_BALznFvgQKGtn9"
+    },
+    {
+      "settlement_payment_id": "pay_veCcwrN8fKxJ7T",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00028",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_veCcwrN8fKxJ7T"
+    },
+    {
+      "settlement_payment_id": "pay_07LjfP4tOPhRfI",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00029",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_07LjfP4tOPhRfI"
+    },
+    {
+      "settlement_payment_id": "pay_ZVYkBzPoBrUBHt",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00030",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_ZVYkBzPoBrUBHt"
+    },
+    {
+      "settlement_payment_id": "pay_BvbdFo9xb50OXi",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00031",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_BvbdFo9xb50OXi"
+    },
+    {
+      "settlement_payment_id": "pay_vJlPGw7HWFb2cx",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00032",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_vJlPGw7HWFb2cx"
+    },
+    {
+      "settlement_payment_id": "pay_jb0QBhoOw6cjBw",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00034",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_jb0QBhoOw6cjBw"
+    },
+    {
+      "settlement_payment_id": "pay_ssjRRkwn9XoEwJ",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00035",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_ssjRRkwn9XoEwJ"
+    },
+    {
+      "settlement_payment_id": "pay_xBIZMLhfx9IwiL",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00037",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_xBIZMLhfx9IwiL"
+    },
+    {
+      "settlement_payment_id": "pay_68VRQEDI5SrJH3",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00039",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_68VRQEDI5SrJH3"
+    },
+    {
+      "settlement_payment_id": "pay_z52Dm7tO4fJHS6",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00040",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_z52Dm7tO4fJHS6"
+    },
+    {
+      "settlement_payment_id": "pay_ausPlLNzAuyf8D",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00041",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_ausPlLNzAuyf8D"
+    },
+    {
+      "settlement_payment_id": "pay_VQKWGGw4gZ3mHk",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00042",
+      "method": "exact",
+      "confidence": 0.85,
+      "reasoning": "Exact ID match on pay_VQKWGGw4gZ3mHk; settlement shows refund 3540.29 not yet reflected in ledger"
+    },
+    {
+      "settlement_payment_id": "pay_8OA9x14xQPHOvl",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00043",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_8OA9x14xQPHOvl"
+    },
+    {
+      "settlement_payment_id": "pay_HUWi9o4JJVYo29",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00044",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_HUWi9o4JJVYo29"
+    },
+    {
+      "settlement_payment_id": "pay_pueBxHZdxLceXK",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00045",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_pueBxHZdxLceXK"
+    },
+    {
+      "settlement_payment_id": "pay_wzInjq5JzjuxZE",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00046",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_wzInjq5JzjuxZE"
+    },
+    {
+      "settlement_payment_id": "pay_MDEaIaGr8bYPX4",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00047",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_MDEaIaGr8bYPX4"
+    },
+    {
+      "settlement_payment_id": "pay_IxlKxVspeqxWjy",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00050",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_IxlKxVspeqxWjy"
+    },
+    {
+      "settlement_payment_id": "pay_krsWw6SEMCiay0",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00051",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_krsWw6SEMCiay0"
+    },
+    {
+      "settlement_payment_id": "pay_nxCQQj9Ds5fZTv",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00053",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_nxCQQj9Ds5fZTv"
+    },
+    {
+      "settlement_payment_id": "pay_anrRXJXHwmhPE7",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00054",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_anrRXJXHwmhPE7"
+    },
+    {
+      "settlement_payment_id": "pay_tBdwaiY7FEQz0E",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00055",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_tBdwaiY7FEQz0E"
+    },
+    {
+      "settlement_payment_id": "pay_HuRrq19Qf7W491",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00057",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_HuRrq19Qf7W491"
+    },
+    {
+      "settlement_payment_id": "pay_Xy8ZEurHi0W3Vc",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00058",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_Xy8ZEurHi0W3Vc"
+    },
+    {
+      "settlement_payment_id": "pay_oQaRY9AiexTgt2",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00059",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_oQaRY9AiexTgt2"
+    },
+    {
+      "settlement_payment_id": "pay_1kjV3PhTa1acw5",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00063",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_1kjV3PhTa1acw5"
+    },
+    {
+      "settlement_payment_id": "pay_KEVm3Vpazov026",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00064",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_KEVm3Vpazov026"
+    },
+    {
+      "settlement_payment_id": "pay_XRTtqemWKjkCzH",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00065",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_XRTtqemWKjkCzH"
+    },
+    {
+      "settlement_payment_id": "pay_8iZxNNKqYbd3Bh",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00066",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_8iZxNNKqYbd3Bh"
+    },
+    {
+      "settlement_payment_id": "pay_bxSDWvJtqbLbYr",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00067",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_bxSDWvJtqbLbYr"
+    },
+    {
+      "settlement_payment_id": "pay_2EtEfonGa4miS4",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00068",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_2EtEfonGa4miS4"
+    },
+    {
+      "settlement_payment_id": "pay_QhT66y97cL57nJ",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00069",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_QhT66y97cL57nJ"
+    },
+    {
+      "settlement_payment_id": "pay_VnBXcbqgv3je68",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00070",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_VnBXcbqgv3je68"
+    },
+    {
+      "settlement_payment_id": "pay_N8DhWD3qNyxxlc",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00071",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_N8DhWD3qNyxxlc"
+    },
+    {
+      "settlement_payment_id": "pay_B6knlceQmYjKtT",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00072",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_B6knlceQmYjKtT"
+    },
+    {
+      "settlement_payment_id": "pay_yy2QdDqxuXt01Q",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00073",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_yy2QdDqxuXt01Q"
+    },
+    {
+      "settlement_payment_id": "pay_wmwCy5QpEB7DIv",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00074",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_wmwCy5QpEB7DIv"
+    },
+    {
+      "settlement_payment_id": "pay_PZygFP0xOLsgd9",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00075",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_PZygFP0xOLsgd9"
+    },
+    {
+      "settlement_payment_id": "pay_wskOIsDTSI463O",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00076",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_wskOIsDTSI463O"
+    },
+    {
+      "settlement_payment_id": "pay_fu9tdCmVJjWWiA",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00077",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_fu9tdCmVJjWWiA"
+    },
+    {
+      "settlement_payment_id": "pay_EUk4Ybn9nbFhSX",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00078",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_EUk4Ybn9nbFhSX"
+    },
+    {
+      "settlement_payment_id": "pay_mmqGmRscEm5uaP",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00079",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_mmqGmRscEm5uaP"
+    },
+    {
+      "settlement_payment_id": "pay_qTxvhyCZQDA2ki",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00080",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_qTxvhyCZQDA2ki"
+    },
+    {
+      "settlement_payment_id": "pay_GQMATDPNjZ3Ma5",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00081",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_GQMATDPNjZ3Ma5"
+    },
+    {
+      "settlement_payment_id": "pay_IOCvZY0uVLSwCg",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00082",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_IOCvZY0uVLSwCg"
+    },
+    {
+      "settlement_payment_id": "pay_F7aTIAK5W4QkYg",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00083",
+      "method": "exact",
+      "confidence": 0.85,
+      "reasoning": "Exact ID match on pay_F7aTIAK5W4QkYg; settlement shows refund 1432.23 not yet reflected in ledger"
+    },
+    {
+      "settlement_payment_id": "pay_slQlkFxAIiKpuS",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00085",
+      "method": "exact",
+      "confidence": 0.85,
+      "reasoning": "Exact ID match on pay_slQlkFxAIiKpuS; settlement shows refund 176.03 not yet reflected in ledger"
+    },
+    {
+      "settlement_payment_id": "pay_PB4MM7Qt46xHr4",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00086",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_PB4MM7Qt46xHr4"
+    },
+    {
+      "settlement_payment_id": "pay_KH6sU4vzOFjnZm",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00088",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_KH6sU4vzOFjnZm"
+    },
+    {
+      "settlement_payment_id": "pay_tWSNrwQuDBWEgO",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00089",
+      "method": "llm_duplicate_conflict",
+      "confidence": 0.95,
+      "reasoning": "Candidate ORD-2026-00089 matches the settlement amount and date without any notes indicating a duplicate transaction like the alternative candidate."
+    },
+    {
+      "settlement_payment_id": "pay_FP0YMkFBl6O7TD",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00091",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_FP0YMkFBl6O7TD"
+    },
+    {
+      "settlement_payment_id": "pay_3a2BoFrjjLYOzu",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00092",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_3a2BoFrjjLYOzu"
+    },
+    {
+      "settlement_payment_id": "pay_fLHpaUaGGxmXzg",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00094",
+      "method": "llm_duplicate_conflict",
+      "confidence": 0.95,
+      "reasoning": "Candidate ORD-2026-00094 matches the exact payment amount and date without any notes indicating a duplicate checkout error unlike the alternative record."
+    },
+    {
+      "settlement_payment_id": "pay_Rj7afj5Adnecx9",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00096",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_Rj7afj5Adnecx9"
+    },
+    {
+      "settlement_payment_id": "pay_UvIltnJlU5lTop",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00099",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_UvIltnJlU5lTop"
+    },
+    {
+      "settlement_payment_id": "pay_OSLy3W6UGBk0ho",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00101",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_OSLy3W6UGBk0ho"
+    },
+    {
+      "settlement_payment_id": "pay_MGXMRqOGqleigC",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00103",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_MGXMRqOGqleigC"
+    },
+    {
+      "settlement_payment_id": "pay_YZhVpVBTcCVG8D",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00104",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_YZhVpVBTcCVG8D"
+    },
+    {
+      "settlement_payment_id": "pay_u8VdwjHgEtINv3",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00105",
+      "method": "exact",
+      "confidence": 0.85,
+      "reasoning": "Exact ID match on pay_u8VdwjHgEtINv3; settlement shows refund 1175.32 not yet reflected in ledger"
+    },
+    {
+      "settlement_payment_id": "pay_YlQVjrztfOc6lb",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00106",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_YlQVjrztfOc6lb"
+    },
+    {
+      "settlement_payment_id": "pay_GgoxlOJ6IIUVJP",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00107",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_GgoxlOJ6IIUVJP"
+    },
+    {
+      "settlement_payment_id": "pay_G9ssn1bYQrII5j",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00108",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_G9ssn1bYQrII5j"
+    },
+    {
+      "settlement_payment_id": "pay_LaWxscHjFndTyB",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00109",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_LaWxscHjFndTyB"
+    },
+    {
+      "settlement_payment_id": "pay_wlvOVkvYXMB5oQ",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00110",
+      "method": "llm_duplicate_conflict",
+      "confidence": 0.95,
+      "reasoning": "The candidate ORD-2026-00110 is the correct match while the alternative is explicitly noted as a double-click duplicate."
+    },
+    {
+      "settlement_payment_id": "pay_j3Ofx7LMooj84u",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00114",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_j3Ofx7LMooj84u"
+    },
+    {
+      "settlement_payment_id": "pay_jlib9MLLKobeWi",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00115",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_jlib9MLLKobeWi"
+    },
+    {
+      "settlement_payment_id": "pay_LUKG2WGBZc9GyT",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00116",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_LUKG2WGBZc9GyT"
+    },
+    {
+      "settlement_payment_id": "pay_uOSkTfRNfRT8Lj",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00117",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_uOSkTfRNfRT8Lj"
+    },
+    {
+      "settlement_payment_id": "pay_La2rMYmldvjcJL",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00118",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_La2rMYmldvjcJL"
+    },
+    {
+      "settlement_payment_id": "pay_TEY2osmhCXTmMz",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00120",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_TEY2osmhCXTmMz"
+    },
+    {
+      "settlement_payment_id": "pay_5dGJQIbJu4Xej0",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00121",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_5dGJQIbJu4Xej0"
+    },
+    {
+      "settlement_payment_id": "pay_t3Hdb4dxfyR3NQ",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00123",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_t3Hdb4dxfyR3NQ"
+    },
+    {
+      "settlement_payment_id": "pay_egD0rvJFzSgIes",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00124",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_egD0rvJFzSgIes"
+    },
+    {
+      "settlement_payment_id": "pay_NdniKUYUOCsMBm",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00125",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_NdniKUYUOCsMBm"
+    },
+    {
+      "settlement_payment_id": "pay_nkiI0wzr2haOi2",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00126",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_nkiI0wzr2haOi2"
+    },
+    {
+      "settlement_payment_id": "pay_0rir1agkKjBYqR",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00128",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_0rir1agkKjBYqR"
+    },
+    {
+      "settlement_payment_id": "pay_qGArXxtG7gGv0L",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00129",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_qGArXxtG7gGv0L"
+    },
+    {
+      "settlement_payment_id": "pay_Z6NRh1iO3J73Rp",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00130",
+      "method": "exact",
+      "confidence": 1.0,
+      "reasoning": "Exact ID match on pay_Z6NRh1iO3J73Rp"
+    },
+    {
+      "settlement_payment_id": "pay_HTmt9OBGhnuKon",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00002",
+      "method": "fuzzy",
+      "confidence": 0.9,
+      "reasoning": "Single strong candidate in date window, amount matches gross amount (diff 0.00)"
+    },
+    {
+      "settlement_payment_id": "pay_ilC2eY1gOHafUo",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00003",
+      "method": "fuzzy",
+      "confidence": 0.9,
+      "reasoning": "Single strong candidate in date window, amount matches gross amount (diff 0.00)"
+    },
+    {
+      "settlement_payment_id": "pay_KPoh3pKMzKG5mS",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00004",
+      "method": "fuzzy",
+      "confidence": 0.9,
+      "reasoning": "Single strong candidate in date window, amount matches gross amount (diff 0.00)"
+    },
+    {
+      "settlement_payment_id": "pay_KNAp0mxDoJJ9s8",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00020",
+      "method": "fuzzy",
+      "confidence": 0.9,
+      "reasoning": "Single strong candidate in date window, amount matches gross amount (diff 0.00)"
+    },
+    {
+      "settlement_payment_id": "pay_CQwBgBye1UnWeN",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00027",
+      "method": "fuzzy",
+      "confidence": 0.9,
+      "reasoning": "Single strong candidate in date window, amount matches gross amount (diff 0.00)"
+    },
+    {
+      "settlement_payment_id": "pay_pUlwW1uhw3U3x8",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00033",
+      "method": "fuzzy",
+      "confidence": 0.9,
+      "reasoning": "Single strong candidate in date window, amount matches gross amount (diff 0.00)"
+    },
+    {
+      "settlement_payment_id": "pay_rem7rMMfNKKkM3",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00036",
+      "method": "fuzzy",
+      "confidence": 0.9,
+      "reasoning": "Single strong candidate in date window, amount matches gross amount (diff 0.00)"
+    },
+    {
+      "settlement_payment_id": "pay_7WWJSKkMM0jQb6",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00038",
+      "method": "fuzzy",
+      "confidence": 0.9,
+      "reasoning": "Single strong candidate in date window, amount matches gross amount (diff 0.00)"
+    },
+    {
+      "settlement_payment_id": "pay_mXZe0XPispjAxB",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00052",
+      "method": "fuzzy",
+      "confidence": 0.9,
+      "reasoning": "Single strong candidate in date window, amount matches gross amount (diff 0.00)"
+    },
+    {
+      "settlement_payment_id": "pay_e58juKVONtB7op",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00062",
+      "method": "fuzzy",
+      "confidence": 0.9,
+      "reasoning": "Single strong candidate in date window, amount matches gross amount (diff 0.00)"
+    },
+    {
+      "settlement_payment_id": "pay_lpeY4zBztyhaSd",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00087",
+      "method": "fuzzy",
+      "confidence": 0.9,
+      "reasoning": "Single strong candidate in date window, amount matches gross amount (diff 0.00)"
+    },
+    {
+      "settlement_payment_id": "pay_Ep1cgknp0fUqwI",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00100",
+      "method": "fuzzy",
+      "confidence": 0.9,
+      "reasoning": "Single strong candidate in date window, amount matches gross amount (diff 0.00)"
+    },
+    {
+      "settlement_payment_id": "pay_5Ii6HKCU2ANH4D",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00102",
+      "method": "fuzzy",
+      "confidence": 0.9,
+      "reasoning": "Single strong candidate in date window, amount matches gross amount (diff 0.00)"
+    },
+    {
+      "settlement_payment_id": "pay_QiT88WCe3fDT7e",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00127",
+      "method": "fuzzy",
+      "confidence": 0.9,
+      "reasoning": "Single strong candidate in date window, amount matches gross amount (diff 0.00)"
+    },
+    {
+      "settlement_payment_id": "pay_H7M3EHMoQrof8V",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00018,ORD-2026-00019",
+      "method": "llm_possible_batch",
+      "confidence": 1.0,
+      "reasoning": "The order notes explicitly reference the batched settlement and the order dates perfectly align with the payment date."
+    },
+    {
+      "settlement_payment_id": "pay_IKvYo7CzakFIFv",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00097,ORD-2026-00098",
+      "method": "llm_possible_batch",
+      "confidence": 1.0,
+      "reasoning": "The order notes explicitly reference the batched settlement and the order dates match the payment date."
+    },
+    {
+      "settlement_payment_id": "pay_iwItCqpgrxMp1j",
+      "bucket": "confirmed_no_match",
+      "matched_order_ref": NaN,
+      "method": "llm_unresolved",
+      "confidence": 0.95,
+      "reasoning": "Neither candidate ledger record matches the settlement gross amount of 7829.53."
+    },
+    {
+      "settlement_payment_id": "pay_Gcn13Dce53Ic5t",
+      "bucket": "needs_human",
+      "matched_order_ref": NaN,
+      "method": "llm_unresolved",
+      "confidence": 0.5,
+      "reasoning": "Both candidate orders have identical amounts and dates with no gateway payment references or differentiating notes to determine the correct match."
+    },
+    {
+      "settlement_payment_id": "pay_6b02mLlyOWXoxo",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00060",
+      "method": "llm_unresolved",
+      "confidence": 0.95,
+      "reasoning": "Candidate ORD-2026-00060 matches the exact gross amount and payment date of the settlement record."
+    },
+    {
+      "settlement_payment_id": "pay_dqW8QjdWmHwCMP",
+      "bucket": "confirmed_no_match",
+      "matched_order_ref": NaN,
+      "method": "llm_unresolved",
+      "confidence": 1.0,
+      "reasoning": "The order amount of 6022.40 does not match the settlement gross amount of 2022.40, and the ledger notes indicate the payment likely failed."
+    },
+    {
+      "settlement_payment_id": "pay_kQ5KexibG4QZLl",
+      "bucket": "confirmed_no_match",
+      "matched_order_ref": NaN,
+      "method": "llm_unresolved",
+      "confidence": 0.95,
+      "reasoning": "None of the candidate orders match the gross amount of 2516.64 from the settlement record."
+    },
+    {
+      "settlement_payment_id": "pay_Qk8RCQanKuLqIo",
+      "bucket": "confirmed_no_match",
+      "matched_order_ref": NaN,
+      "method": "llm_unresolved",
+      "confidence": 1.0,
+      "reasoning": "None of the candidate ledger records have an order amount that matches the gross amount of the settlement."
+    },
+    {
+      "settlement_payment_id": "pay_qC6eOP4wgs2x8F",
+      "bucket": "matched",
+      "matched_order_ref": "ORD-2026-00112",
+      "method": "llm_unresolved",
+      "confidence": 0.95,
+      "reasoning": "Candidate ORD-2026-00112 matches the settlement amount and payment date without any conflicting notes or duplicate indicators."
+    },
+    {
+      "settlement_payment_id": "pay_Wi2Y6PiSCSGa5Q",
+      "bucket": "confirmed_no_match",
+      "matched_order_ref": NaN,
+      "method": "llm_unresolved",
+      "confidence": 0.95,
+      "reasoning": "The order amount does not match the gross amount of the settlement record."
+    }
+  ],
+  "orphaned_ledger_records": [
+    {
+      "order_ref": "ORD-2026-00056",
+      "reasoning": "No settlement record claims this ledger entry -- possible unrecorded/failed payment"
+    },
+    {
+      "order_ref": "ORD-2026-00084",
+      "reasoning": "No settlement record claims this ledger entry -- possible unrecorded/failed payment"
+    },
+    {
+      "order_ref": "ORD-2026-00093",
+      "reasoning": "No settlement record claims this ledger entry -- possible unrecorded/failed payment"
+    },
+    {
+      "order_ref": "ORD-2026-00119",
+      "reasoning": "No settlement record claims this ledger entry -- possible unrecorded/failed payment"
+    },
+    {
+      "order_ref": "ORD-2026-00122",
+      "reasoning": "No settlement record claims this ledger entry -- possible unrecorded/failed payment"
+    }
+  ],
+  "metrics": {
+    "total_settlements": 122,
+    "matched": 116,
+    "confirmed_no_match": 5,
+    "needs_human": 1,
+    "match_rate": 0.9508
+  }
+}
