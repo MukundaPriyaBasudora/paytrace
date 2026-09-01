@@ -126,6 +126,6 @@ in `BUILD_LOG.md`.
 ## The Proof
 
 - **Repo runs**: commands above, tested end-to-end
-- **Video**: [link]
+- **Video**: [[link](https://youtu.be/eYT9P_-7lWo?si=4fS6bnd_x-LtzcYv)]
 - **What broke, and how we got out**: see `BUILD_LOG.md` — 12+ real, specific
   bugs found via validation against ground truth, not asserted fixes

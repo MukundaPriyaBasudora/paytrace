@@ -558,7 +558,7 @@
       "matched_order_ref": "ORD-2026-00089",
       "method": "llm_duplicate_conflict",
       "confidence": 0.95,
-      "reasoning": "Candidate ORD-2026-00089 matches the settlement amount and date without any notes indicating a duplicate transaction like the alternative candidate."
+      "reasoning": "Candidate ORD-2026-00089 is the correct match because the alternative order is explicitly flagged as a possible duplicate caused by a double-click."
     },
     {
       "settlement_payment_id": "pay_FP0YMkFBl6O7TD",
@@ -582,7 +582,7 @@
       "matched_order_ref": "ORD-2026-00094",
       "method": "llm_duplicate_conflict",
       "confidence": 0.95,
-      "reasoning": "Candidate ORD-2026-00094 matches the exact payment amount and date without any notes indicating a duplicate checkout error unlike the alternative record."
+      "reasoning": "Candidate ORD-2026-00094 matches the payment amount and date while the alternative explicitly notes a double-click duplicate error."
     },
     {
       "settlement_payment_id": "pay_Rj7afj5Adnecx9",
@@ -670,7 +670,7 @@
       "matched_order_ref": "ORD-2026-00110",
       "method": "llm_duplicate_conflict",
       "confidence": 0.95,
-      "reasoning": "The candidate ORD-2026-00110 is the correct match while the alternative is explicitly noted as a double-click duplicate."
+      "reasoning": "Candidate ORD-2026-00110 matches the settlement amount and date, whereas the alternative is explicitly noted as a potential duplicate from a double-clicked checkout."
     },
     {
       "settlement_payment_id": "pay_j3Ofx7LMooj84u",
@@ -902,7 +902,7 @@
       "matched_order_ref": "ORD-2026-00018,ORD-2026-00019",
       "method": "llm_possible_batch",
       "confidence": 1.0,
-      "reasoning": "The order notes explicitly reference the batched settlement and the order dates perfectly align with the payment date."
+      "reasoning": "The order notes explicitly confirm they are part of the batched settlement and their dates align with the payment date."
     },
     {
       "settlement_payment_id": "pay_IKvYo7CzakFIFv",
@@ -910,7 +910,7 @@
       "matched_order_ref": "ORD-2026-00097,ORD-2026-00098",
       "method": "llm_possible_batch",
       "confidence": 1.0,
-      "reasoning": "The order notes explicitly reference the batched settlement and the order dates match the payment date."
+      "reasoning": "The order notes explicitly reference the batched settlement identifier and the order dates align perfectly with the payment date."
     },
     {
       "settlement_payment_id": "pay_iwItCqpgrxMp1j",
@@ -918,7 +918,7 @@
       "matched_order_ref": NaN,
       "method": "llm_unresolved",
       "confidence": 0.95,
-      "reasoning": "Neither candidate ledger record matches the settlement gross amount of 7829.53."
+      "reasoning": "Neither candidate order amount nor order date aligns with the settlement details."
     },
     {
       "settlement_payment_id": "pay_Gcn13Dce53Ic5t",
@@ -926,7 +926,7 @@
       "matched_order_ref": NaN,
       "method": "llm_unresolved",
       "confidence": 0.5,
-      "reasoning": "Both candidate orders have identical amounts and dates with no gateway payment references or differentiating notes to determine the correct match."
+      "reasoning": "Both candidate orders have identical amounts and dates with no distinguishing notes or payment reference clues to choose between them."
     },
     {
       "settlement_payment_id": "pay_6b02mLlyOWXoxo",
@@ -934,7 +934,7 @@
       "matched_order_ref": "ORD-2026-00060",
       "method": "llm_unresolved",
       "confidence": 0.95,
-      "reasoning": "Candidate ORD-2026-00060 matches the exact gross amount and payment date of the settlement record."
+      "reasoning": "Order ORD-2026-00060 matches the settlement amount and date, and there are no conflicting notes."
     },
     {
       "settlement_payment_id": "pay_dqW8QjdWmHwCMP",
@@ -942,7 +942,7 @@
       "matched_order_ref": NaN,
       "method": "llm_unresolved",
       "confidence": 1.0,
-      "reasoning": "The order amount of 6022.40 does not match the settlement gross amount of 2022.40, and the ledger notes indicate the payment likely failed."
+      "reasoning": "The candidate order amount of 6022.40 does not match the payment gross amount of 2022.40 and is explicitly noted as likely failed or reversed."
     },
     {
       "settlement_payment_id": "pay_kQ5KexibG4QZLl",
@@ -950,7 +950,7 @@
       "matched_order_ref": NaN,
       "method": "llm_unresolved",
       "confidence": 0.95,
-      "reasoning": "None of the candidate orders match the gross amount of 2516.64 from the settlement record."
+      "reasoning": "None of the candidate orders match the gross settlement amount of 2516.64 within an acceptable tolerance."
     },
     {
       "settlement_payment_id": "pay_Qk8RCQanKuLqIo",
@@ -958,7 +958,7 @@
       "matched_order_ref": NaN,
       "method": "llm_unresolved",
       "confidence": 1.0,
-      "reasoning": "None of the candidate ledger records have an order amount that matches the gross amount of the settlement."
+      "reasoning": "None of the candidate orders have an amount matching the settlement gross amount of 10005.55."
     },
     {
       "settlement_payment_id": "pay_qC6eOP4wgs2x8F",
@@ -966,7 +966,7 @@
       "matched_order_ref": "ORD-2026-00112",
       "method": "llm_unresolved",
       "confidence": 0.95,
-      "reasoning": "Candidate ORD-2026-00112 matches the settlement amount and payment date without any conflicting notes or duplicate indicators."
+      "reasoning": "Candidate ORD-2026-00112 uniquely matches the exact gross amount and payment date of the settlement record."
     },
     {
       "settlement_payment_id": "pay_Wi2Y6PiSCSGa5Q",
@@ -974,7 +974,7 @@
       "matched_order_ref": NaN,
       "method": "llm_unresolved",
       "confidence": 0.95,
-      "reasoning": "The order amount does not match the gross amount of the settlement record."
+      "reasoning": "The settlement gross amount does not match the candidate order amount."
     }
   ],
   "orphaned_ledger_records": [
