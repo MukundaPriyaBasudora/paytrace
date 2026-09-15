@@ -1,6 +1,5 @@
 # PayTrace — AI Finance Controller: Reconciliation Agent
 
-Built for Razorpay's AI Buildathon — Track 4 (AI Finance Controller).
 
 An agent that reconciles a payment settlement report against a merchant's
 internal order ledger — two independently-maintained records of the same
